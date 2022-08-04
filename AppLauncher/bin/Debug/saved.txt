@@ -1,0 +1,2 @@
+C:\Program Files (x86)\Arduino\arduino.exe
+C:\Program Files (x86)\DroidCam\DroidCamApp.exe
